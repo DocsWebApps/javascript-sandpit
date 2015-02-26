@@ -8,3 +8,10 @@
 	display: block;
 	margin: 0px auto 0px auto;
 }
+
+#myChart2 {
+  height: 500px;
+  width: 80%;
+  display: block;
+  margin: 0px auto 0px auto;
+}
